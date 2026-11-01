@@ -1,0 +1,3 @@
+﻿  month.cpp
+D:\проекты\month\month.cpp(14,18): warning C4129: " ": нераспознанная escape-последовательность символов
+  month.vcxproj -> D:\проекты\month\x64\Debug\month.exe
