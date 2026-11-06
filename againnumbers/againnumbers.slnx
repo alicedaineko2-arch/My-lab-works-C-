@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="againnumbers.vcxproj" Id="76f4c54a-3608-4074-a4f1-20acbe2e288d" />
+</Solution>

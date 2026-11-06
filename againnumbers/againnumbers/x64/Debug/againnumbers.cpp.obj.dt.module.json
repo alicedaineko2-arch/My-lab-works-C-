@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "againnumbers\\x64\\Debug\\againnumbers.obj",
+            "outputs": [
+                "againnumbers\\x64\\Debug\\againnumbers.cpp.obj.dt.module.json",
+                "againnumbers\\x64\\Debug\\againnumbers.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
