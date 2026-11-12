@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "counting\\x64\\Debug\\counting.obj",
+            "outputs": [
+                "counting\\x64\\Debug\\counting.cpp.obj.dt.module.json",
+                "counting\\x64\\Debug\\counting.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
