@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "bebebe\\x64\\Debug\\bebebe.obj",
+            "outputs": [
+                "bebebe\\x64\\Debug\\bebebe.cpp.obj.dt.module.json",
+                "bebebe\\x64\\Debug\\bebebe.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
