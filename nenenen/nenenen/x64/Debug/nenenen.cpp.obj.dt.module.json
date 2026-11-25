@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "nenenen\\x64\\Debug\\nenenen.obj",
+            "outputs": [
+                "nenenen\\x64\\Debug\\nenenen.cpp.obj.dt.module.json",
+                "nenenen\\x64\\Debug\\nenenen.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
